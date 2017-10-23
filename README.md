@@ -13,6 +13,8 @@ Installation Instructions:
 4-Click Import and navigate to Red-lang.xml
 
 5-Import it and restart Notepad++
+
+6-Choose Red-lang from Language menu when editing Red language scripts
     
 
 
